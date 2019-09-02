@@ -9,12 +9,12 @@ Add Nodejs PPA
 
 Install Nodejs
 
-sudo apt-get install nodejs
+  sudo apt-get install nodejs
 
 After installing node.js verify and check the installed version.
 
-node -v
+  node -v
 
 also check npm version
-npm -v
+  npm -v
 
